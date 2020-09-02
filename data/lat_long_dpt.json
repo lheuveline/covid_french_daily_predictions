@@ -1,0 +1,480 @@
+{
+    "Ain": {
+        "city": "Bourg-en-Bresse",
+        "latitude": "46.2",
+        "longitude": "5.216667"
+    },
+    "Aisne": {
+        "city": "Laon",
+        "latitude": "49.566667",
+        "longitude": "3.616667"
+    },
+    "Allier": {
+        "city": "Moulins",
+        "latitude": "49.416667",
+        "longitude": "3.683333"
+    },
+    "Alpes-de-Haute-Provence": {
+        "city": "Digne"
+    },
+    "Hautes-Alpes": {
+        "city": "Gap",
+        "latitude": "44.566667",
+        "longitude": "6.083333"
+    },
+    "Alpes-Maritimes": {
+        "city": "Nice",
+        "latitude": "43.7",
+        "longitude": "7.25"
+    },
+    "Ardèche": {
+        "city": "Privas",
+        "latitude": "44.733333",
+        "longitude": "4.6"
+    },
+    "Ardennes": {
+        "city": "Charleville-Mézières",
+        "latitude": "49.766667",
+        "longitude": "4.716667"
+    },
+    "Ariège": {
+        "city": "Foix",
+        "latitude": "42.966667",
+        "longitude": "1.6"
+    },
+    "Aube": {
+        "city": "Troyes",
+        "latitude": "48.3",
+        "longitude": "4.083333"
+    },
+    "Aude": {
+        "city": "Carcassonne",
+        "latitude": "43.216667",
+        "longitude": "2.35"
+    },
+    "Aveyron": {
+        "city": "Rodez",
+        "latitude": "44.333333",
+        "longitude": "2.566667"
+    },
+    "Bouches-du-Rhône": {
+        "city": "Marseille",
+        "latitude": "43.296482",
+        "longitude": "5.369779999999992"
+    },
+    "Calvados": {
+        "city": "Caen",
+        "latitude": "49.183333",
+        "longitude": "-0.35"
+    },
+    "Cantal": {
+        "city": "Aurillac",
+        "latitude": "44.916667",
+        "longitude": "2.45"
+    },
+    "Charente": {
+        "city": "Angoulême",
+        "latitude": "45.65",
+        "longitude": "0.15"
+    },
+    "Charente-Maritime": {
+        "city": "La Rochelle",
+        "latitude": "46.166667",
+        "longitude": "-1.15"
+    },
+    "Cher": {
+        "city": "Bourges",
+        "latitude": "47.083333",
+        "longitude": "2.4"
+    },
+    "Corrèze": {
+        "city": "Tulle",
+        "latitude": "45.266667",
+        "longitude": "1.766667"
+    },
+    "Corse-du-Sud": {
+        "city": "Ajaccio",
+        "latitude": "41.916667",
+        "longitude": "8.733333"
+    },
+    "Haute-Corse": {
+        "city": "Bastia",
+        "latitude": "42.7",
+        "longitude": "9.45"
+    },
+    "Côte-d'Or": {
+        "city": "Dijon",
+        "latitude": "47.316667",
+        "longitude": "5.016667"
+    },
+    "Côtes d'Armor": {
+        "city": "Saint-Brieuc",
+        "latitude": "48.516667",
+        "longitude": "-2.783333"
+    },
+    "Creuse": {
+        "city": "Guéret",
+        "latitude": "46.166667",
+        "longitude": "1.866667"
+    },
+    "Dordogne": {
+        "city": "Périgueux",
+        "latitude": "45.183333",
+        "longitude": "0.716667"
+    },
+    "Doubs": {
+        "city": "Besançon",
+        "latitude": "47.25",
+        "longitude": "6.033333"
+    },
+    "Drôme": {
+        "city": "Valence",
+        "latitude": "45.883333",
+        "longitude": "0.3"
+    },
+    "Eure": {
+        "city": "Évreux"
+    },
+    "Eure-et-Loir": {
+        "city": "Chartres",
+        "latitude": "48.45",
+        "longitude": "1.5"
+    },
+    "Finistère": {
+        "city": "Quimper",
+        "latitude": "48",
+        "longitude": "-4.1"
+    },
+    "Gard": {
+        "city": "Nîmes",
+        "latitude": "43.833333",
+        "longitude": "4.35"
+    },
+    "Haute-Garonne": {
+        "city": "Toulouse",
+        "latitude": "43.6",
+        "longitude": "1.433333"
+    },
+    "Gers": {
+        "city": "Auch",
+        "latitude": "43.65",
+        "longitude": "0.583333"
+    },
+    "Gironde": {
+        "city": "Bordeaux",
+        "latitude": "44.833333",
+        "longitude": "-0.566667"
+    },
+    "Hérault": {
+        "city": "Montpellier",
+        "latitude": "43.6",
+        "longitude": "3.883333"
+    },
+    "Ille-et-Vilaine": {
+        "city": "Rennes",
+        "latitude": "48.083333",
+        "longitude": "-1.683333"
+    },
+    "Indre": {
+        "city": "Châteauroux",
+        "latitude": "46.816667",
+        "longitude": "1.7"
+    },
+    "Indre-et-Loire": {
+        "city": "Tours",
+        "latitude": "47.383333",
+        "longitude": "0.683333"
+    },
+    "Isère": {
+        "city": "Grenoble",
+        "latitude": "45.166667",
+        "longitude": "5.716667"
+    },
+    "Jura": {
+        "city": "Lons-le-Saunier",
+        "latitude": "46.666667",
+        "longitude": "5.55"
+    },
+    "Landes": {
+        "city": "Mont-de-Marsan",
+        "latitude": "43.883333",
+        "longitude": "-0.5"
+    },
+    "Loir-et-Cher": {
+        "city": "Blois",
+        "latitude": "47.583333",
+        "longitude": "1.333333"
+    },
+    "Loire": {
+        "city": "Saint-Étienne"
+    },
+    "Haute-Loire": {
+        "city": "Le Puy-en-Velay",
+        "latitude": "45.042768",
+        "longitude": "3.8829359999999724"
+    },
+    "Loire-Atlantique": {
+        "city": "Nantes",
+        "latitude": "47.216667",
+        "longitude": "-1.55"
+    },
+    "Loiret": {
+        "city": "Orléans",
+        "latitude": "47.916667",
+        "longitude": "1.9"
+    },
+    "Lot": {
+        "city": "Cahors",
+        "latitude": "44.433333",
+        "longitude": "1.433333"
+    },
+    "Lot-et-Garonne": {
+        "city": "Agen",
+        "latitude": "44.2",
+        "longitude": "0.633333"
+    },
+    "Lozère": {
+        "city": "Mende",
+        "latitude": "44.516667",
+        "longitude": "3.5"
+    },
+    "Maine-et-Loire": {
+        "city": "Angers",
+        "latitude": "47.466667",
+        "longitude": "-0.55"
+    },
+    "Manche": {
+        "city": "Saint-Lô",
+        "latitude": "49.116667",
+        "longitude": "-1.083333"
+    },
+    "Marne": {
+        "city": "Châlons-en-Champagne",
+        "latitude": "48.958333",
+        "longitude": "4.366667"
+    },
+    "Haute-Marne": {
+        "city": "Chaumont",
+        "latitude": "46.833333",
+        "longitude": "2.75"
+    },
+    "Mayenne": {
+        "city": "Laval",
+        "latitude": "45.25",
+        "longitude": "5.933333"
+    },
+    "Meurthe-et-Moselle": {
+        "city": "Nancy",
+        "latitude": "48.683333",
+        "longitude": "6.2"
+    },
+    "Meuse": {
+        "city": "Bar-le-Duc",
+        "latitude": "48.783333",
+        "longitude": "5.166667"
+    },
+    "Morbihan": {
+        "city": "Vannes",
+        "latitude": "47.666667",
+        "longitude": "-2.75"
+    },
+    "Moselle": {
+        "city": "Metz",
+        "latitude": "49.133333",
+        "longitude": "6.166667"
+    },
+    "Nièvre": {
+        "city": "Nevers",
+        "latitude": "46.983333",
+        "longitude": "3.166667"
+    },
+    "Nord": {
+        "city": "Lille",
+        "latitude": "50.633333",
+        "longitude": "3.066667"
+    },
+    "Oise": {
+        "city": "Beauvais",
+        "latitude": "49.433333",
+        "longitude": "2.083333"
+    },
+    "Orne": {
+        "city": "Alençon",
+        "latitude": "48.433333",
+        "longitude": "0.083333"
+    },
+    "Pas-de-Calais": {
+        "city": "Arras",
+        "latitude": "50.283333",
+        "longitude": "2.783333"
+    },
+    "Puy-de-Dôme": {
+        "city": "Clermont-Ferrand",
+        "latitude": "45.783333",
+        "longitude": "3.083333"
+    },
+    "Pyrénées-Atlantiques": {
+        "city": "Pau",
+        "latitude": "43.3",
+        "longitude": "-0.366667"
+    },
+    "Hautes-Pyrénées": {
+        "city": "Tarbes",
+        "latitude": "43.233333",
+        "longitude": "0.083333"
+    },
+    "Pyrénées-Orientales": {
+        "city": "Perpignan",
+        "latitude": "42.683333",
+        "longitude": "2.883333"
+    },
+    "Bas-Rhin": {
+        "city": "Strasbourg",
+        "latitude": "48.583333",
+        "longitude": "7.75"
+    },
+    "Haut-Rhin": {
+        "city": "Colmar",
+        "latitude": "48.083333",
+        "longitude": "7.366667"
+    },
+    "Rhône": {
+        "city": "Lyon",
+        "latitude": "45.764043",
+        "longitude": "4.835658999999964"
+    },
+    "Haute-Saône": {
+        "city": "Vesoul",
+        "latitude": "47.633333",
+        "longitude": "6.166667"
+    },
+    "Saône-et-Loire": {
+        "city": "Mâcon",
+        "latitude": "46.3",
+        "longitude": "4.833333"
+    },
+    "Sarthe": {
+        "city": "Le Mans",
+        "latitude": "48",
+        "longitude": "0.2"
+    },
+    "Savoie": {
+        "city": "Chambéry",
+        "latitude": "45.566667",
+        "longitude": "5.933333"
+    },
+    "Haute-Savoie": {
+        "city": "Annecy",
+        "latitude": "45.9",
+        "longitude": "6.116667"
+    },
+    "Paris": {
+        "city": "Paris",
+        "latitude": "48.86",
+        "longitude": "2.34445"
+    },
+    "Seine-Maritime": {
+        "city": "Rouen",
+        "latitude": "49.433333",
+        "longitude": "1.083333"
+    },
+    "Seine-et-Marne": {
+        "city": "Melun",
+        "latitude": "48.533333",
+        "longitude": "2.666667"
+    },
+    "Yvelines": {
+        "city": "Versailles",
+        "latitude": "48.8",
+        "longitude": "2.133333"
+    },
+    "Deux-Sèvres": {
+        "city": "Niort",
+        "latitude": "46.316667",
+        "longitude": "-0.466667"
+    },
+    "Somme": {
+        "city": "Amiens",
+        "latitude": "49.9",
+        "longitude": "2.3"
+    },
+    "Tarn": {
+        "city": "Albi",
+        "latitude": "43.933333",
+        "longitude": "2.15"
+    },
+    "Tarn-et-Garonne": {
+        "city": "Montauban",
+        "latitude": "44.016667",
+        "longitude": "1.35"
+    },
+    "Var": {
+        "city": "Toulon",
+        "latitude": "43.116667",
+        "longitude": "5.933333"
+    },
+    "Vaucluse": {
+        "city": "Avignon",
+        "latitude": "43.95",
+        "longitude": "4.816667"
+    },
+    "Vandée": {
+        "city": "La Roche-sur-Yon",
+        "latitude": "46.666667",
+        "longitude": "-1.433333"
+    },
+    "Vienne": {
+        "city": "Poitiers",
+        "latitude": "46.583333",
+        "longitude": "0.333333"
+    },
+    "Haute-Vienne": {
+        "city": "Limoges",
+        "latitude": "45.85",
+        "longitude": "1.25"
+    },
+    "Vosges": {
+        "city": "Épinal"
+    },
+    "Yonne": {
+        "city": "Auxerre"
+    },
+    "Territoire de Belfort": {
+        "city": "Belfort"
+    },
+    "Essonne": {
+        "city": "Évry"
+    },
+    "Hauts-de-Seine": {
+        "city": "Nanterre"
+    },
+    "Seine-St-Denis": {
+        "city": "Bobigny"
+    },
+    "Val-de-Marne": {
+        "city": "Créteil"
+    },
+    "Val-D'Oise": {
+        "city": "Pontoise"
+    },
+    "Guadeloupe": {
+        "city": "Basse-Terre"
+    },
+    "Martinique": {
+        "city": "Fort-de-France"
+    },
+    "Guyane": {
+        "city": "Cayenne"
+    },
+    "La Réunion": {
+        "city": "Saint-Denis",
+        "latitude": "43.366667",
+        "longitude": "2.216667"
+    },
+    "Mayotte": {
+        "city": "Dzaoudzi"
+    },
+    "": {
+        "city": ""
+    }
+}

@@ -1,0 +1,929 @@
+[
+  {
+    "NUMÉRO": 1,
+    "NOM": "Ain",
+    "REGION": "Auvergne-Rhône-Alpes",
+    "CHEF LIEU": "Bourg-en-Bresse",
+    "SUPERFICIE (km²)": 5762,
+    "POPULATION": 631877,
+    "DENSITE (habitants/km2)": 109.7
+  },
+  {
+    "NUMÉRO": 2,
+    "NOM": "Aisne",
+    "REGION": "Hauts-de-France",
+    "CHEF LIEU": "Laon",
+    "SUPERFICIE (km²)": 7369,
+    "POPULATION": 538659,
+    "DENSITE (habitants/km2)": 73.1
+  },
+  {
+    "NUMÉRO": 3,
+    "NOM": "Allier",
+    "REGION": "Auvergne-Rhône-Alpes",
+    "CHEF LIEU": "Moulins",
+    "SUPERFICIE (km²)": 7340,
+    "POPULATION": 341613,
+    "DENSITE (habitants/km2)": 46.5
+  },
+  {
+    "NUMÉRO": 4,
+    "NOM": "Alpes-de-Haute-Provence",
+    "REGION": "Provence-Alpes-Côte d'Azur",
+    "CHEF LIEU": "Digne",
+    "SUPERFICIE (km²)": 6925,
+    "POPULATION": 161799,
+    "DENSITE (habitants/km2)": 23.4
+  },
+  {
+    "NUMÉRO": 5,
+    "NOM": "Hautes-Alpes",
+    "REGION": "Provence-Alpes-Côte d'Azur",
+    "CHEF LIEU": "Gap",
+    "SUPERFICIE (km²)": 5549,
+    "POPULATION": 140916,
+    "DENSITE (habitants/km2)": 25.4
+  },
+  {
+    "NUMÉRO": 6,
+    "NOM": "Alpes-Maritimes",
+    "REGION": "Provence-Alpes-Côte d'Azur",
+    "CHEF LIEU": "Nice",
+    "SUPERFICIE (km²)": 4299,
+    "POPULATION": 1082440,
+    "DENSITE (habitants/km2)": 251.8
+  },
+  {
+    "NUMÉRO": 7,
+    "NOM": "Ardèche",
+    "REGION": "Auvergne-Rhône-Alpes",
+    "CHEF LIEU": "Privas",
+    "SUPERFICIE (km²)": 5529,
+    "POPULATION": 324209,
+    "DENSITE (habitants/km2)": 58.6
+  },
+  {
+    "NUMÉRO": 8,
+    "NOM": "Ardennes",
+    "REGION": "Grand Est",
+    "CHEF LIEU": "Charleville-Mézières",
+    "SUPERFICIE (km²)": 5229,
+    "POPULATION": 277752,
+    "DENSITE (habitants/km2)": 53.1
+  },
+  {
+    "NUMÉRO": 9,
+    "NOM": "Ariège",
+    "REGION": "Occitanie",
+    "CHEF LIEU": "Foix",
+    "SUPERFICIE (km²)": 4890,
+    "POPULATION": 152499,
+    "DENSITE (habitants/km2)": 31.2
+  },
+  {
+    "NUMÉRO": 10,
+    "NOM": "Aube",
+    "REGION": "Grand Est",
+    "CHEF LIEU": "Troyes",
+    "SUPERFICIE (km²)": 6004,
+    "POPULATION": 309056,
+    "DENSITE (habitants/km2)": 51.5
+  },
+  {
+    "NUMÉRO": 11,
+    "NOM": "Aude",
+    "REGION": "Occitanie",
+    "CHEF LIEU": "Carcassonne",
+    "SUPERFICIE (km²)": 6139,
+    "POPULATION": 366957,
+    "DENSITE (habitants/km2)": 59.8
+  },
+  {
+    "NUMÉRO": 12,
+    "NOM": "Aveyron",
+    "REGION": "Occitanie",
+    "CHEF LIEU": "Rodez",
+    "SUPERFICIE (km²)": 8735,
+    "POPULATION": 279169,
+    "DENSITE (habitants/km2)": 32
+  },
+  {
+    "NUMÉRO": 13,
+    "NOM": "Bouches-du-Rhône",
+    "REGION": "Provence-Alpes-Côte d'Azur",
+    "CHEF LIEU": "Marseille",
+    "SUPERFICIE (km²)": 5088,
+    "POPULATION": 2016622,
+    "DENSITE (habitants/km2)": 396.4
+  },
+  {
+    "NUMÉRO": 14,
+    "NOM": "Calvados",
+    "REGION": "Normandie",
+    "CHEF LIEU": "Caen",
+    "SUPERFICIE (km²)": 5548,
+    "POPULATION": 693579,
+    "DENSITE (habitants/km2)": 125
+  },
+  {
+    "NUMÉRO": 15,
+    "NOM": "Cantal",
+    "REGION": "Auvergne-Rhône-Alpes",
+    "CHEF LIEU": "Aurillac",
+    "SUPERFICIE (km²)": 5726,
+    "POPULATION": 146219,
+    "DENSITE (habitants/km2)": 25.5
+  },
+  {
+    "NUMÉRO": 16,
+    "NOM": "Charente",
+    "REGION": "Nouvelle-Aquitaine",
+    "CHEF LIEU": "Angoulême",
+    "SUPERFICIE (km²)": 5956,
+    "POPULATION": 353613,
+    "DENSITE (habitants/km2)": 59.4
+  },
+  {
+    "NUMÉRO": 17,
+    "NOM": "Charente-Maritime",
+    "REGION": "Nouvelle-Aquitaine",
+    "CHEF LIEU": "La Rochelle",
+    "SUPERFICIE (km²)": 6864,
+    "POPULATION": 639938,
+    "DENSITE (habitants/km2)": 93.2
+  },
+  {
+    "NUMÉRO": 18,
+    "NOM": "Cher",
+    "REGION": "Centre-Val de Loire",
+    "CHEF LIEU": "Bourges",
+    "SUPERFICIE (km²)": 7235,
+    "POPULATION": 308992,
+    "DENSITE (habitants/km2)": 42.7
+  },
+  {
+    "NUMÉRO": 19,
+    "NOM": "Corrèze",
+    "REGION": "Nouvelle-Aquitaine",
+    "CHEF LIEU": "Tulle",
+    "SUPERFICIE (km²)": 5857,
+    "POPULATION": 241871,
+    "DENSITE (habitants/km2)": 41.3
+  },
+  {
+    "NUMÉRO": "2A",
+    "NOM": "Corse-du-Sud",
+    "REGION": "Corse",
+    "CHEF LIEU": "Ajaccio",
+    "SUPERFICIE (km²)": 4014,
+    "POPULATION": 152730,
+    "DENSITE (habitants/km2)": 38
+  },
+  {
+    "NUMÉRO": "2B",
+    "NOM": "Haute-Corse",
+    "REGION": "Corse",
+    "CHEF LIEU": "Bastia",
+    "SUPERFICIE (km²)": 4666,
+    "POPULATION": 174553,
+    "DENSITE (habitants/km2)": 37.4
+  },
+  {
+    "NUMÉRO": 21,
+    "NOM": "Côte-d'Or",
+    "REGION": "Bourgogne-Franche-Comté",
+    "CHEF LIEU": "Dijon",
+    "SUPERFICIE (km²)": 8763,
+    "POPULATION": 533147,
+    "DENSITE (habitants/km2)": 60.8
+  },
+  {
+    "NUMÉRO": 22,
+    "NOM": "Côtes d'Armor",
+    "REGION": "Bretagne",
+    "CHEF LIEU": "Saint-Brieuc",
+    "SUPERFICIE (km²)": 6878,
+    "POPULATION": 598357,
+    "DENSITE (habitants/km2)": 87
+  },
+  {
+    "NUMÉRO": 23,
+    "NOM": "Creuse",
+    "REGION": "Nouvelle-Aquitaine",
+    "CHEF LIEU": "Guéret",
+    "SUPERFICIE (km²)": 5565,
+    "POPULATION": 120365,
+    "DENSITE (habitants/km2)": 21.6
+  },
+  {
+    "NUMÉRO": 24,
+    "NOM": "Dordogne",
+    "REGION": "Nouvelle-Aquitaine",
+    "CHEF LIEU": "Périgueux",
+    "SUPERFICIE (km²)": 9060,
+    "POPULATION": 415417,
+    "DENSITE (habitants/km2)": 45.9
+  },
+  {
+    "NUMÉRO": 25,
+    "NOM": "Doubs",
+    "REGION": "Bourgogne-Franche-Comté",
+    "CHEF LIEU": "Besançon",
+    "SUPERFICIE (km²)": 5233,
+    "POPULATION": 536959,
+    "DENSITE (habitants/km2)": 102.6
+  },
+  {
+    "NUMÉRO": 26,
+    "NOM": "Drôme",
+    "REGION": "Auvergne-Rhône-Alpes",
+    "CHEF LIEU": "Valence",
+    "SUPERFICIE (km²)": 6530,
+    "POPULATION": 504637,
+    "DENSITE (habitants/km2)": 77.3
+  },
+  {
+    "NUMÉRO": 27,
+    "NOM": "Eure",
+    "REGION": "Normandie",
+    "CHEF LIEU": "Évreux",
+    "SUPERFICIE (km²)": 6040,
+    "POPULATION": 601948,
+    "DENSITE (habitants/km2)": 99.7
+  },
+  {
+    "NUMÉRO": 28,
+    "NOM": "Eure-et-Loir",
+    "REGION": "Centre-Val de Loire",
+    "CHEF LIEU": "Chartres",
+    "SUPERFICIE (km²)": 5880,
+    "POPULATION": 434035,
+    "DENSITE (habitants/km2)": 73.8
+  },
+  {
+    "NUMÉRO": 29,
+    "NOM": "Finistère",
+    "REGION": "Bretagne",
+    "CHEF LIEU": "Quimper",
+    "SUPERFICIE (km²)": 6733,
+    "POPULATION": 907796,
+    "DENSITE (habitants/km2)": 134.8
+  },
+  {
+    "NUMÉRO": 30,
+    "NOM": "Gard",
+    "REGION": "Occitanie",
+    "CHEF LIEU": "Nîmes",
+    "SUPERFICIE (km²)": 5853,
+    "POPULATION": 738189,
+    "DENSITE (habitants/km2)": 126.1
+  },
+  {
+    "NUMÉRO": 31,
+    "NOM": "Haute-Garonne",
+    "REGION": "Occitanie",
+    "CHEF LIEU": "Toulouse",
+    "SUPERFICIE (km²)": 6309,
+    "POPULATION": 1335103,
+    "DENSITE (habitants/km2)": 211.6
+  },
+  {
+    "NUMÉRO": 32,
+    "NOM": "Gers",
+    "REGION": "Occitanie",
+    "CHEF LIEU": "Auch",
+    "SUPERFICIE (km²)": 6257,
+    "POPULATION": 190932,
+    "DENSITE (habitants/km2)": 30.5
+  },
+  {
+    "NUMÉRO": 33,
+    "NOM": "Gironde",
+    "REGION": "Nouvelle-Aquitaine",
+    "CHEF LIEU": "Bordeaux",
+    "SUPERFICIE (km²)": 9976,
+    "POPULATION": 1548478,
+    "DENSITE (habitants/km2)": 155.2
+  },
+  {
+    "NUMÉRO": 34,
+    "NOM": "Hérault",
+    "REGION": "Occitanie",
+    "CHEF LIEU": "Montpellier",
+    "SUPERFICIE (km²)": 6101,
+    "POPULATION": 1120190,
+    "DENSITE (habitants/km2)": 183.6
+  },
+  {
+    "NUMÉRO": 35,
+    "NOM": "Ille-et-Vilaine",
+    "REGION": "Bretagne",
+    "CHEF LIEU": "Rennes",
+    "SUPERFICIE (km²)": 6775,
+    "POPULATION": 1042884,
+    "DENSITE (habitants/km2)": 153.9
+  },
+  {
+    "NUMÉRO": 36,
+    "NOM": "Indre",
+    "REGION": "Centre-Val de Loire",
+    "CHEF LIEU": "Châteauroux",
+    "SUPERFICIE (km²)": 6791,
+    "POPULATION": 224200,
+    "DENSITE (habitants/km2)": 33
+  },
+  {
+    "NUMÉRO": 37,
+    "NOM": "Indre-et-Loire",
+    "REGION": "Centre-Val de Loire",
+    "CHEF LIEU": "Tours",
+    "SUPERFICIE (km²)": 6127,
+    "POPULATION": 604966,
+    "DENSITE (habitants/km2)": 98.7
+  },
+  {
+    "NUMÉRO": 38,
+    "NOM": "Isère",
+    "REGION": "Auvergne-Rhône-Alpes",
+    "CHEF LIEU": "Grenoble",
+    "SUPERFICIE (km²)": 7432,
+    "POPULATION": 1251060,
+    "DENSITE (habitants/km2)": 168.3
+  },
+  {
+    "NUMÉRO": 39,
+    "NOM": "Jura",
+    "REGION": "Bourgogne-Franche-Comté",
+    "CHEF LIEU": "Lons-le-Saunier",
+    "SUPERFICIE (km²)": 4999,
+    "POPULATION": 260587,
+    "DENSITE (habitants/km2)": 52.1
+  },
+  {
+    "NUMÉRO": 40,
+    "NOM": "Landes",
+    "REGION": "Nouvelle-Aquitaine",
+    "CHEF LIEU": "Mont-de-Marsan",
+    "SUPERFICIE (km²)": 9243,
+    "POPULATION": 403234,
+    "DENSITE (habitants/km2)": 43.6
+  },
+  {
+    "NUMÉRO": 41,
+    "NOM": "Loir-et-Cher",
+    "REGION": "Centre-Val de Loire",
+    "CHEF LIEU": "Blois",
+    "SUPERFICIE (km²)": 6343,
+    "POPULATION": 333050,
+    "DENSITE (habitants/km2)": 52.5
+  },
+  {
+    "NUMÉRO": 42,
+    "NOM": "Loire",
+    "REGION": "Auvergne-Rhône-Alpes",
+    "CHEF LIEU": "Saint-Étienne",
+    "SUPERFICIE (km²)": 4781,
+    "POPULATION": 759411,
+    "DENSITE (habitants/km2)": 158.9
+  },
+  {
+    "NUMÉRO": 43,
+    "NOM": "Haute-Loire",
+    "REGION": "Auvergne-Rhône-Alpes",
+    "CHEF LIEU": "Le Puy-en-Velay",
+    "SUPERFICIE (km²)": 4977,
+    "POPULATION": 227034,
+    "DENSITE (habitants/km2)": 45.6
+  },
+  {
+    "NUMÉRO": 44,
+    "NOM": "Loire-Atlantique",
+    "REGION": "Pays de la Loire",
+    "CHEF LIEU": "Nantes",
+    "SUPERFICIE (km²)": 6809,
+    "POPULATION": 1365227,
+    "DENSITE (habitants/km2)": 200.5
+  },
+  {
+    "NUMÉRO": 45,
+    "NOM": "Loiret",
+    "REGION": "Centre-Val de Loire",
+    "CHEF LIEU": "Orléans",
+    "SUPERFICIE (km²)": 6775,
+    "POPULATION": 673349,
+    "DENSITE (habitants/km2)": 99.4
+  },
+  {
+    "NUMÉRO": 46,
+    "NOM": "Lot",
+    "REGION": "Occitanie",
+    "CHEF LIEU": "Cahors",
+    "SUPERFICIE (km²)": 5217,
+    "POPULATION": 173400,
+    "DENSITE (habitants/km2)": 33.2
+  },
+  {
+    "NUMÉRO": 47,
+    "NOM": "Lot-et-Garonne",
+    "REGION": "Nouvelle-Aquitaine",
+    "CHEF LIEU": "Agen",
+    "SUPERFICIE (km²)": 5361,
+    "POPULATION": 333417,
+    "DENSITE (habitants/km2)": 62.2
+  },
+  {
+    "NUMÉRO": 48,
+    "NOM": "Lozère",
+    "REGION": "Occitanie",
+    "CHEF LIEU": "Mende",
+    "SUPERFICIE (km²)": 5167,
+    "POPULATION": 76309,
+    "DENSITE (habitants/km2)": 14.8
+  },
+  {
+    "NUMÉRO": 49,
+    "NOM": "Maine-et-Loire",
+    "REGION": "Pays de la Loire",
+    "CHEF LIEU": "Angers",
+    "SUPERFICIE (km²)": 7172,
+    "POPULATION": 810186,
+    "DENSITE (habitants/km2)": 113
+  },
+  {
+    "NUMÉRO": 50,
+    "NOM": "Manche",
+    "REGION": "Normandie",
+    "CHEF LIEU": "Saint-Lô",
+    "SUPERFICIE (km²)": 5938,
+    "POPULATION": 499287,
+    "DENSITE (habitants/km2)": 84.1
+  },
+  {
+    "NUMÉRO": 51,
+    "NOM": "Marne",
+    "REGION": "Grand Est",
+    "CHEF LIEU": "Châlons-en-Champagne",
+    "SUPERFICIE (km²)": 8162,
+    "POPULATION": 572293,
+    "DENSITE (habitants/km2)": 70.1
+  },
+  {
+    "NUMÉRO": 52,
+    "NOM": "Haute-Marne",
+    "REGION": "Grand Est",
+    "CHEF LIEU": "Chaumont",
+    "SUPERFICIE (km²)": 6211,
+    "POPULATION": 179154,
+    "DENSITE (habitants/km2)": 28.8
+  },
+  {
+    "NUMÉRO": 53,
+    "NOM": "Mayenne",
+    "REGION": "Pays de la Loire",
+    "CHEF LIEU": "Laval",
+    "SUPERFICIE (km²)": 5175,
+    "POPULATION": 307940,
+    "DENSITE (habitants/km2)": 59.5
+  },
+  {
+    "NUMÉRO": 54,
+    "NOM": "Meurthe-et-Moselle",
+    "REGION": "Grand Est",
+    "CHEF LIEU": "Nancy",
+    "SUPERFICIE (km²)": 5246,
+    "POPULATION": 734403,
+    "DENSITE (habitants/km2)": 140
+  },
+  {
+    "NUMÉRO": 55,
+    "NOM": "Meuse",
+    "REGION": "Grand Est",
+    "CHEF LIEU": "Bar-le-Duc",
+    "SUPERFICIE (km²)": 6211,
+    "POPULATION": 190626,
+    "DENSITE (habitants/km2)": 30.7
+  },
+  {
+    "NUMÉRO": 56,
+    "NOM": "Morbihan",
+    "REGION": "Bretagne",
+    "CHEF LIEU": "Vannes",
+    "SUPERFICIE (km²)": 6823,
+    "POPULATION": 744813,
+    "DENSITE (habitants/km2)": 109.2
+  },
+  {
+    "NUMÉRO": 57,
+    "NOM": "Moselle",
+    "REGION": "Grand Est",
+    "CHEF LIEU": "Metz",
+    "SUPERFICIE (km²)": 6216,
+    "POPULATION": 1044486,
+    "DENSITE (habitants/km2)": 168
+  },
+  {
+    "NUMÉRO": 58,
+    "NOM": "Nièvre",
+    "REGION": "Bourgogne-Franche-Comté",
+    "CHEF LIEU": "Nevers",
+    "SUPERFICIE (km²)": 6817,
+    "POPULATION": 211747,
+    "DENSITE (habitants/km2)": 31.1
+  },
+  {
+    "NUMÉRO": 59,
+    "NOM": "Nord",
+    "REGION": "Hauts-de-France",
+    "CHEF LIEU": "Lille",
+    "SUPERFICIE (km²)": 5743,
+    "POPULATION": 2605238,
+    "DENSITE (habitants/km2)": 453.7
+  },
+  {
+    "NUMÉRO": 60,
+    "NOM": "Oise",
+    "REGION": "Hauts-de-France",
+    "CHEF LIEU": "Beauvais",
+    "SUPERFICIE (km²)": 5860,
+    "POPULATION": 821552,
+    "DENSITE (habitants/km2)": 140.2
+  },
+  {
+    "NUMÉRO": 61,
+    "NOM": "Orne",
+    "REGION": "Normandie",
+    "CHEF LIEU": "Alençon",
+    "SUPERFICIE (km²)": 6103,
+    "POPULATION": 286618,
+    "DENSITE (habitants/km2)": 47
+  },
+  {
+    "NUMÉRO": 62,
+    "NOM": "Pas-de-Calais",
+    "REGION": "Hauts-de-France",
+    "CHEF LIEU": "Arras",
+    "SUPERFICIE (km²)": 6671,
+    "POPULATION": 1472648,
+    "DENSITE (habitants/km2)": 220.7
+  },
+  {
+    "NUMÉRO": 63,
+    "NOM": "Puy-de-Dôme",
+    "REGION": "Auvergne-Rhône-Alpes",
+    "CHEF LIEU": "Clermont-Ferrand",
+    "SUPERFICIE (km²)": 7970,
+    "POPULATION": 647501,
+    "DENSITE (habitants/km2)": 81.2
+  },
+  {
+    "NUMÉRO": 64,
+    "NOM": "Pyrénées-Atlantiques",
+    "REGION": "Nouvelle-Aquitaine",
+    "CHEF LIEU": "Pau",
+    "SUPERFICIE (km²)": 7645,
+    "POPULATION": 670032,
+    "DENSITE (habitants/km2)": 87.6
+  },
+  {
+    "NUMÉRO": 65,
+    "NOM": "Hautes-Pyrénées",
+    "REGION": "Occitanie",
+    "CHEF LIEU": "Tarbes",
+    "SUPERFICIE (km²)": 4464,
+    "POPULATION": 228582,
+    "DENSITE (habitants/km2)": 51.2
+  },
+  {
+    "NUMÉRO": 66,
+    "NOM": "Pyrénées-Orientales",
+    "REGION": "Occitanie",
+    "CHEF LIEU": "Perpignan",
+    "SUPERFICIE (km²)": 4116,
+    "POPULATION": 471038,
+    "DENSITE (habitants/km2)": 114.4
+  },
+  {
+    "NUMÉRO": 67,
+    "NOM": "Bas-Rhin",
+    "REGION": "Grand Est",
+    "CHEF LIEU": "Strasbourg",
+    "SUPERFICIE (km²)": 4755,
+    "POPULATION": 1116658,
+    "DENSITE (habitants/km2)": 234.8
+  },
+  {
+    "NUMÉRO": 68,
+    "NOM": "Haut-Rhin",
+    "REGION": "Grand Est",
+    "CHEF LIEU": "Colmar",
+    "SUPERFICIE (km²)": 3525,
+    "POPULATION": 762607,
+    "DENSITE (habitants/km2)": 216.3
+  },
+  {
+    "NUMÉRO": 69,
+    "NOM": "Rhône",
+    "REGION": "Auvergne-Rhône-Alpes",
+    "CHEF LIEU": "Lyon",
+    "SUPERFICIE (km²)": 3249,
+    "POPULATION": 1821995,
+    "DENSITE (habitants/km2)": 560.8
+  },
+  {
+    "NUMÉRO": 70,
+    "NOM": "Haute-Saône",
+    "REGION": "Bourgogne-Franche-Comté",
+    "CHEF LIEU": "Vesoul",
+    "SUPERFICIE (km²)": 5360,
+    "POPULATION": 237706,
+    "DENSITE (habitants/km2)": 44.3
+  },
+  {
+    "NUMÉRO": 71,
+    "NOM": "Saône-et-Loire",
+    "REGION": "Bourgogne-Franche-Comté",
+    "CHEF LIEU": "Mâcon",
+    "SUPERFICIE (km²)": 8575,
+    "POPULATION": 555408,
+    "DENSITE (habitants/km2)": 64.8
+  },
+  {
+    "NUMÉRO": 72,
+    "NOM": "Sarthe",
+    "REGION": "Pays de la Loire",
+    "CHEF LIEU": "Le Mans",
+    "SUPERFICIE (km²)": 6206,
+    "POPULATION": 568445,
+    "DENSITE (habitants/km2)": 91.6
+  },
+  {
+    "NUMÉRO": 73,
+    "NOM": "Savoie",
+    "REGION": "Auvergne-Rhône-Alpes",
+    "CHEF LIEU": "Chambéry",
+    "SUPERFICIE (km²)": 6028,
+    "POPULATION": 428204,
+    "DENSITE (habitants/km2)": 71
+  },
+  {
+    "NUMÉRO": 74,
+    "NOM": "Haute-Savoie",
+    "REGION": "Auvergne-Rhône-Alpes",
+    "CHEF LIEU": "Annecy",
+    "SUPERFICIE (km²)": 4388,
+    "POPULATION": 793938,
+    "DENSITE (habitants/km2)": 180.9
+  },
+  {
+    "NUMÉRO": 75,
+    "NOM": "Paris",
+    "REGION": "Ile-de-France",
+    "CHEF LIEU": "Paris",
+    "SUPERFICIE (km²)": 105,
+    "POPULATION": 2206488,
+    "DENSITE (habitants/km2)": 20934.4
+  },
+  {
+    "NUMÉRO": 76,
+    "NOM": "Seine-Maritime",
+    "REGION": "Normandie",
+    "CHEF LIEU": "Rouen",
+    "SUPERFICIE (km²)": 6278,
+    "POPULATION": 1257699,
+    "DENSITE (habitants/km2)": 200.3
+  },
+  {
+    "NUMÉRO": 77,
+    "NOM": "Seine-et-Marne",
+    "REGION": "Ile-de-France",
+    "CHEF LIEU": "Melun",
+    "SUPERFICIE (km²)": 5915,
+    "POPULATION": 1390121,
+    "DENSITE (habitants/km2)": 235
+  },
+  {
+    "NUMÉRO": 78,
+    "NOM": "Yvelines",
+    "REGION": "Ile-de-France",
+    "CHEF LIEU": "Versailles",
+    "SUPERFICIE (km²)": 2284,
+    "POPULATION": 1427291,
+    "DENSITE (habitants/km2)": 624.8
+  },
+  {
+    "NUMÉRO": 79,
+    "NOM": "Deux-Sèvres",
+    "REGION": "Nouvelle-Aquitaine",
+    "CHEF LIEU": "Niort",
+    "SUPERFICIE (km²)": 5999,
+    "POPULATION": 374435,
+    "DENSITE (habitants/km2)": 62.4
+  },
+  {
+    "NUMÉRO": 80,
+    "NOM": "Somme",
+    "REGION": "Hauts-de-France",
+    "CHEF LIEU": "Amiens",
+    "SUPERFICIE (km²)": 6170,
+    "POPULATION": 571879,
+    "DENSITE (habitants/km2)": 92.7
+  },
+  {
+    "NUMÉRO": 81,
+    "NOM": "Tarn",
+    "REGION": "Occitanie",
+    "CHEF LIEU": "Albi",
+    "SUPERFICIE (km²)": 5758,
+    "POPULATION": 386543,
+    "DENSITE (habitants/km2)": 67.1
+  },
+  {
+    "NUMÉRO": 82,
+    "NOM": "Tarn-et-Garonne",
+    "REGION": "Occitanie",
+    "CHEF LIEU": "Montauban",
+    "SUPERFICIE (km²)": 3718,
+    "POPULATION": 255274,
+    "DENSITE (habitants/km2)": 68.7
+  },
+  {
+    "NUMÉRO": 83,
+    "NOM": "Var",
+    "REGION": "Provence-Alpes-Côte d'Azur",
+    "CHEF LIEU": "Toulon",
+    "SUPERFICIE (km²)": 5973,
+    "POPULATION": 1048652,
+    "DENSITE (habitants/km2)": 175.6
+  },
+  {
+    "NUMÉRO": 84,
+    "NOM": "Vaucluse",
+    "REGION": "Provence-Alpes-Côte d'Azur",
+    "CHEF LIEU": "Avignon",
+    "SUPERFICIE (km²)": 3567,
+    "POPULATION": 557548,
+    "DENSITE (habitants/km2)": 156.3
+  },
+  {
+    "NUMÉRO": 85,
+    "NOM": "Vandée",
+    "REGION": "Pays de la Loire",
+    "CHEF LIEU": "La Roche-sur-Yon",
+    "SUPERFICIE (km²)": 6720,
+    "POPULATION": 666714,
+    "DENSITE (habitants/km2)": 99.2
+  },
+  {
+    "NUMÉRO": 86,
+    "NOM": "Vienne",
+    "REGION": "Nouvelle-Aquitaine",
+    "CHEF LIEU": "Poitiers",
+    "SUPERFICIE (km²)": 6990,
+    "POPULATION": 434887,
+    "DENSITE (habitants/km2)": 62.2
+  },
+  {
+    "NUMÉRO": 87,
+    "NOM": "Haute-Vienne",
+    "REGION": "Nouvelle-Aquitaine",
+    "CHEF LIEU": "Limoges",
+    "SUPERFICIE (km²)": 5520,
+    "POPULATION": 375795,
+    "DENSITE (habitants/km2)": 68.1
+  },
+  {
+    "NUMÉRO": 88,
+    "NOM": "Vosges",
+    "REGION": "Grand Est",
+    "CHEF LIEU": "Épinal",
+    "SUPERFICIE (km²)": 5874,
+    "POPULATION": 372016,
+    "DENSITE (habitants/km2)": 63.3
+  },
+  {
+    "NUMÉRO": 89,
+    "NOM": "Yonne",
+    "REGION": "Bourgogne-Franche-Comté",
+    "CHEF LIEU": "Auxerre",
+    "SUPERFICIE (km²)": 7427,
+    "POPULATION": 340903,
+    "DENSITE (habitants/km2)": 45.9
+  },
+  {
+    "NUMÉRO": 90,
+    "NOM": "Territoire de Belfort",
+    "REGION": "Bourgogne-Franche-Comté",
+    "CHEF LIEU": "Belfort",
+    "SUPERFICIE (km²)": 609,
+    "POPULATION": 144483,
+    "DENSITE (habitants/km2)": 237.1
+  },
+  {
+    "NUMÉRO": 91,
+    "NOM": "Essonne",
+    "REGION": "Ile-de-France",
+    "CHEF LIEU": "Évry",
+    "SUPERFICIE (km²)": 1804,
+    "POPULATION": 1276233,
+    "DENSITE (habitants/km2)": 707.3
+  },
+  {
+    "NUMÉRO": 92,
+    "NOM": "Hauts-de-Seine",
+    "REGION": "Ile-de-France",
+    "CHEF LIEU": "Nanterre",
+    "SUPERFICIE (km²)": 176,
+    "POPULATION": 1601569,
+    "DENSITE (habitants/km2)": 9120.6
+  },
+  {
+    "NUMÉRO": 93,
+    "NOM": "Seine-St-Denis",
+    "REGION": "Ile-de-France",
+    "CHEF LIEU": "Bobigny",
+    "SUPERFICIE (km²)": 236,
+    "POPULATION": 1592663,
+    "DENSITE (habitants/km2)": 6742.9
+  },
+  {
+    "NUMÉRO": 94,
+    "NOM": "Val-de-Marne",
+    "REGION": "Ile-de-France",
+    "CHEF LIEU": "Créteil",
+    "SUPERFICIE (km²)": 245,
+    "POPULATION": 1372389,
+    "DENSITE (habitants/km2)": 5601.6
+  },
+  {
+    "NUMÉRO": 95,
+    "NOM": "Val-D'Oise",
+    "REGION": "Ile-de-France",
+    "CHEF LIEU": "Pontoise",
+    "SUPERFICIE (km²)": 1246,
+    "POPULATION": 1215390,
+    "DENSITE (habitants/km2)": 975.5
+  },
+  {
+    "NUMÉRO": 971,
+    "NOM": "Guadeloupe",
+    "REGION": "Guadeloupe",
+    "CHEF LIEU": "Basse-Terre",
+    "SUPERFICIE (km²)": 1628,
+    "POPULATION": 397990,
+    "DENSITE (habitants/km2)": 244.4
+  },
+  {
+    "NUMÉRO": 972,
+    "NOM": "Martinique",
+    "REGION": "Martinique",
+    "CHEF LIEU": "Fort-de-France",
+    "SUPERFICIE (km²)": 1128,
+    "POPULATION": 380877,
+    "DENSITE (habitants/km2)": 337.7
+  },
+  {
+    "NUMÉRO": 973,
+    "NOM": "Guyane",
+    "REGION": "Guyane",
+    "CHEF LIEU": "Cayenne",
+    "SUPERFICIE (km²)": 83534,
+    "POPULATION": 259865,
+    "DENSITE (habitants/km2)": 3.1
+  },
+  {
+    "NUMÉRO": 974,
+    "NOM": "La Réunion",
+    "REGION": "La Réunion",
+    "CHEF LIEU": "Saint-Denis",
+    "SUPERFICIE (km²)": 2504,
+    "POPULATION": 850727,
+    "DENSITE (habitants/km2)": 339.8
+  },
+  {
+    "NUMÉRO": 976,
+    "NOM": "Mayotte",
+    "REGION": "Mayotte",
+    "CHEF LIEU": "Dzaoudzi",
+    "SUPERFICIE (km²)": 376,
+    "POPULATION": 256518,
+    "DENSITE (habitants/km2)": 682.2
+  },
+  {
+    "NUMÉRO": "",
+    "NOM": "",
+    "REGION": "",
+    "CHEF LIEU": "",
+    "SUPERFICIE (km²)": "",
+    "POPULATION": "",
+    "DENSITE (habitants/km2)": ""
+  },
+  {
+    "NUMÉRO": "fichier téléchargé depuis le site regions-et-departements.fr",
+    "NOM": "",
+    "REGION": "",
+    "CHEF LIEU": "",
+    "SUPERFICIE (km²)": "",
+    "POPULATION": "",
+    "DENSITE (habitants/km2)": ""
+  }
+]
