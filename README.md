@@ -21,3 +21,5 @@ The project contains two main pages :
 * Use train / test sets for training and store model metrics for optimization
 * Display only France map and not all world.
 * Use different data sources (population movements, temperature, news feeds...)
+* Handle Covid French API no-cors
+* Change starting day at 20:00 pm for API calls
