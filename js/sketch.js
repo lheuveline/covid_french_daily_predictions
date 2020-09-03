@@ -52,8 +52,8 @@ function preload() {
 
   all_dates = []
   _date = new Date();
-  all_dates.push(_date.toJSON().slice(0,10).replace(/-/g,'-'))
-  for (i = 0; i < n_days - 1; i++) {
+  // all_dates.push(_date.toJSON().slice(0,10).replace(/-/g,'-'))
+  for (i = 0; i < n_days ; i++) {
     _date = subtractOneDay(_date)
     all_dates.push(_date.toJSON().slice(0,10).replace(/-/g,'-'))
   }

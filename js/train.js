@@ -69,8 +69,8 @@ function setup() {
 
 function draw() {
     model.fit(x, y, {
-        epochs: 5,
-        batchSize: 32, // Set this to high to decrease train speed
+        epochs: 10,
+        batchSize: 64, // Set this to high to decrease train speed
         callbacks: tfvis.show.fitCallbacks(surface, ['loss'])
     }).then(info => {
         console.log('Final accuracy', info.history.acc);
