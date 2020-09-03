@@ -11,6 +11,7 @@ The project contains two main pages :
 
 * The dataset file (sampled_covid_dataset) has been created with scripts/get_dataset.py. This script get historical data from API (on 120 days) and construct a dataset containing the 14th previous hospitalizations values and the direction of the next step (1 or -1). The dataset needed some resampling because it was largely imbalanced using only 120 days.
 * The neural network is equivalent to a simple Logistic Regression using 14 variables, with Gradient Descent Optimization.
+* The implemented algorithm accuracy is near random.
 
 ## To-do
 
@@ -19,3 +20,4 @@ The project contains two main pages :
 * Store propagation data in database
 * Use train / test sets for training and store model metrics for optimization
 * Display only France map and not all world.
+* Use different data sources (population movements, temperature, news feeds...)
